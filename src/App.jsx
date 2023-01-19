@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <h2>GMDB - Movie Library</h2>
       <Outlet />
     </div>
   )
